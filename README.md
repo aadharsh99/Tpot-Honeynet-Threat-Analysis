@@ -1,4 +1,4 @@
-# T-Pot Honeynet Threat Analysis
+# Network Security CA1-T-Pot Honeynet Threat Analysis
 
 A cybersecurity honeynet research project analysing one month of Internet attack activity captured by **T-Pot**, with a focus on the **Cowrie SSH honeypot** and **Honeytrap** low-interaction honeypot.
 
