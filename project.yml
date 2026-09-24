@@ -1,0 +1,19 @@
+name: tpot-honeynet-threat-analysis
+type: cybersecurity-research
+platform: T-Pot
+deployment: DigitalOcean
+duration: one month
+primary_sensors:
+  - Cowrie
+  - Honeytrap
+analysis:
+  - attack volume
+  - geolocation
+  - destination ports
+  - source IPs
+  - ASNs
+  - WHOIS
+  - SpiderFoot OSINT
+  - SSH commands
+  - malware downloads
+author: Aadharsh Anbuchezhian
